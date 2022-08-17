@@ -54,8 +54,8 @@ webserver[1:2]
 [db]
 dbserver
 
-[fisica]
-172.16.0.1
+#[fisica]
+#172.16.0.1
 
 #[windows]
 #winclient
