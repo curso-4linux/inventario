@@ -1,11 +1,11 @@
 [local]
-ansible
+172.16.0.199
 
 [lb]
-balancer
+172.16.0.200
 
 [webservers]
-webserver[1:2]
+172.16.0.20[1:2]
 
 [db]
-dbserver
+172.16.0.203
